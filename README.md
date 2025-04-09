@@ -6,7 +6,7 @@ A fun and simple clone of the classic Flappy Bird game built using Python and th
 
 Fly the bird through pipes by pressing the space bar or the up arrow key. Avoid hitting the pipes or the ground. Try to beat your high score!
 
-![Flappy Bird Screenshot](C:\Users\disha\OneDrive\Pictures\Screenshots\Screenshot 2025-04-09 114034.png)
+![Flappy Bird Screenshot](Screenshot 2025-04-09 114034.png)
 
 ## 🧰 Requirements
 
